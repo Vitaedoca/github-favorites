@@ -149,7 +149,8 @@ td.user a p {
 td .remove {
     background: none;
     border: none;
-    color: rgb(223, 45, 45);
+    color: rgb(230, 2, 2);
 
     cursor: pointer;
+    font-weight: bold;
 }
